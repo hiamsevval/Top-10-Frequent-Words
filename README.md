@@ -3,7 +3,7 @@ This is a team project for CMP2003 Data Structures and Algorithms course coded i
 
 This is a C++ console application which reads files from Reuters-21578 documents collection appeared on the Reuters newswire in 1987 and find Top 10 frequent words used in the newswire articles.
 
-Collection is distributed in 22 files. Each of the first 21 files contain 1000 document, while the last one contains 578 documents. First file name is reut2-000.sgm and the last one is reut2-021.sgm.
+Collection is distributed in 22 files. Each of the first 21 files contain 1000 documents, while the last one contains 578 documents. First file name is reut2-000.sgm and the last one is reut2-021.sgm.
 
 Each article starts with \<REUTERS TOPIC=?? LEWISSPLIT=?? CGISPLIT=?? OLDID=?? NEWID=??> where "??" are filled with appropriate fashion and ends with a "close tag" \</REUTERS>.
 
